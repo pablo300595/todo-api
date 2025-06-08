@@ -33,23 +33,5 @@ La API permite realizar las siguientes operaciones sobre la colección de tareas
 - **Firebase Admin SDK**: Para interactuar con Firestore desde el backend.
 - **Cloud Firestore**: Base de datos NoSQL de Firebase.
 
-📂 Estructura del Proyecto
-.
-├── functions/
-│   ├── src/
-│   │   ├── config/
-│   │   │   └── firebase.ts           # Inicialización del Firebase Admin SDK
-│   │   ├── controllers/
-│   │   │   └── todoController.ts     # Lógica de negocio (CRUD para tareas)
-│   │   ├── models/
-│   │   │   └── task.ts               # Definición de la interfaz de la Tarea
-│   │   ├── routes/
-│   │   │   └── taskRoutes.ts         # Definición de las rutas de la API
-│   │   └── index.ts                  # Punto de entrada principal de la Cloud Function
-│   ├── .env.example                  # Archivo de ejemplo para variables de entorno locales
-│   ├── package.json                  # Dependencias y scripts del proyecto
-│   ├── tsconfig.json                 # Configuración de TypeScript
-│   └── ...                           # Otros archivos de Firebase Functions
-├── .gitignore
-├── firebase.json                     # Configuración del proyecto Firebase
-└── README.md
+📂 Autenticación local
+- **gcloud**: gcloud auth print-identity-token
