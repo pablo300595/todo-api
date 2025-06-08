@@ -1,2 +1,3 @@
-export * as taskRoutes from './taskRoutes'
-export * as userRoutes from './userRoutes'
+export { default as taskRoutes } from './taskRoutes';
+export { default as userRoutes } from './userRoutes';
+

@@ -33,5 +33,8 @@ La API permite realizar las siguientes operaciones sobre la colección de tareas
 - **Firebase Admin SDK**: Para interactuar con Firestore desde el backend.
 - **Cloud Firestore**: Base de datos NoSQL de Firebase.
 
-📂 Autenticación local
+## 📂 Autenticación local
 - **gcloud**: gcloud auth print-identity-token
+- **postman collection:**
+
+https://lively-flare-422277.postman.co/workspace/LeanTech~f52c4720-e5bd-4e66-b6c7-0590cc21852e/collection/5269330-e4ad0240-2cb4-4161-8d9c-f651a5fb5dc7?action=share&creator=5269330&active-environment=5269330-f2253e4e-1241-4463-90fd-676b8ba0321a
