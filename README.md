@@ -1,12 +1,10 @@
-¡Claro que sí! Aquí tienes un borrador de un archivo README.md para tu proyecto de API de Tareas (CRUD), basado en el código que me mostraste. Incluye secciones clave que son útiles para cualquier desarrollador que quiera entender y usar tu API.
-
 API de Gestión de Tareas (Firebase Cloud Functions v2)
 Esta es una API RESTful para la gestión de tareas (CRUD - Crear, Leer, Actualizar, Eliminar), construida utilizando Node.js, TypeScript, Express.js y Firebase Cloud Functions (2da Generación) con Firestore como base de datos.
 
 🚀 Despliegue y URL de la API
 Esta API está desplegada en Firebase Cloud Functions.
 
-URL Base de la API: https://api-jvgjg62esa-uc.a.run.app
+URL Base de la API: https://us-central1-mirva-todo.cloudfunctions.net
 (Nota: Esta URL es un ejemplo. Si has redeployado la función, obtén la URL actual de tu consola de Firebase o del output de firebase deploy.)
 
 ✨ Funcionalidades
